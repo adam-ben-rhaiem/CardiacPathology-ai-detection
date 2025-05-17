@@ -7,7 +7,7 @@
 
 This project implements machine learning techniques in MATLAB to detect cardiac pathologies from medical data. The system compares different classification methods and employs feature selection to optimize performance.
 
-## Features
+## 🚀 Features
 
 - Three classification methods compared: k-NN, Decision Tree, and Naive Bayes
 - Data preprocessing including missing value removal and z-score normalization
@@ -15,13 +15,13 @@ This project implements machine learning techniques in MATLAB to detect cardiac 
 - Performance evaluation through loss calculation and confusion matrices
 - Fall detection dataset analysis with k-means clustering
 
-## Dataset
+## 📊 Dataset
 
 The project uses two datasets:
 1. `Heart_Pathology_Dataset.csv` - Contains cardiac pathology data with 13 features
 2. `falldetection_dataset.csv` - Used for additional analysis
 
-## Methodology
+## 🧠 Methodology
 
 ### 1. Data Preprocessing
 - Removal of rows with missing values
