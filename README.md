@@ -43,16 +43,14 @@ The project uses two datasets:
 - Confusion matrices for classification results
 - Silhouette analysis for k-means clustering
 
-🛠️ Installation
-Requirements:
+## 🛠️ Installation
+### Requirements:
 
-MATLAB R2020b+
+- MATLAB R2020b+
+- Statistics and Machine Learning Toolbox
+- Signal Processing Toolbox (for fall detection)
 
-Statistics and Machine Learning Toolbox
-
-Signal Processing Toolbox (for fall detection)
-
-Setup:
+### Setup:
 
 1. Clone the repository:
    ```bash
