@@ -43,6 +43,23 @@ The project uses two datasets:
 - Confusion matrices for classification results
 - Silhouette analysis for k-means clustering
 
+🛠️ Installation
+Requirements:
+
+MATLAB R2020b+
+
+Statistics and Machine Learning Toolbox
+
+Signal Processing Toolbox (for fall detection)
+
+Setup:
+
+1. Clone the repository:
+   ```bash
+    git clone https://github.com/adam-ben-rhaiem/cardiac-ai-detection.git
+    cd cardiac-ai-detection
+  
+
 ## Code Structure
 
 ```plaintext
