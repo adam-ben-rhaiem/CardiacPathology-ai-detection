@@ -56,8 +56,6 @@ The project uses two datasets:
    ```bash
     git clone https://github.com/adam-ben-rhaiem/CardiacPathology-ai-detection.git
     cd CardiacPathology-ai-detection
-  
-
 ## Code Structure
 
 ```plaintext
